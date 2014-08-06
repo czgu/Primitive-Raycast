@@ -8,7 +8,7 @@ int size_of_object = 0;
 int ACTUAL_X = 800;
 int ACTUAL_Y = 600;
 int SPEED = 5;
-int FOV  = 160;
+int FOV  = 60;
 int TILE = 64;
 int UNIT = 32;
 #define PI 3.1415926535898
